@@ -64,7 +64,7 @@ use_github() #Using this I can create a repository. For the sake of this assignm
 #* repository and click "Commit." A window will pop up showing the changes you
 #* have made to the file. You will now have to type in a commit message, and click commit
 #* again. Once you have done this, you can "push" your changes to the online repository 
-#* by clicking "press."
+#* by clicking "push."
 #* 
 #* You can also "pull" content from your github repository as well, by clicking the
 #* "pull" button. For example, this is especially helpful when you are collaborating
