@@ -49,7 +49,7 @@ use_github() #Using this I can create a repository. For the sake of this assignm
 #* If I wanted to create a privated repository I would  use "use_github(private=TRUE)"
 
 #* Now you can see my github online!
-#* https://github.com/ngoccolaco/GitHub_practice
+#* https://github.com/ngoccolaco/Practice
 
 #* If I have a new project with no files yet, I actually prefer setting everything
 #* up in GitHub first. This includes creating a repository in GitHub first
@@ -63,7 +63,7 @@ use_github() #Using this I can create a repository. For the sake of this assignm
 #* can go under the "Git" tab and select all the files I want to send to my 
 #* repository and click "Commit." A window will pop up showing the changes you
 #* have made to the file. You will now have to type in a commit message, and click commit
-#* again. Once you have done this, you can "push" your changess to the online respoitory 
+#* again. Once you have done this, you can "push" your changes to the online respoitory 
 #* by clicking "press."
 #* 
 #* You can also "pull" content from your github repository as well, by clicking the
